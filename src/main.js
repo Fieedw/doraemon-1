@@ -778,4 +778,4 @@ let id = setInterval(()=>{
     demo.innerText =string.substr(0,n)
     demo1.innerHTML=string.substr(0,n)
     demo.scrollTop =demo.scrollHeight
-},0)
+},5)
